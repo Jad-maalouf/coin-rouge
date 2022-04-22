@@ -5,7 +5,7 @@
     box-sizing: border-box;
     background-color: black;
     color: white;
-    font-size: 1.1rem;
+    font-size: 1rem;
     /* font-family: fantasy; */
   }
 
@@ -14,7 +14,6 @@
     grid-template-rows: 1fr 10fr;
     text-align: center;
     margin-left: 1px;
-    
   }
 
   label {
@@ -71,6 +70,9 @@
  .category{
    color: brown;
    text-shadow: 2px 2px 4px rgb(148, 1, 1); ;
+ }
+ .li{
+   font-size: 1.3rem;
  }
   
 }
