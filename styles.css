@@ -74,7 +74,11 @@
  }
 li{
   margin-bottom: 10px;
- 
+}
+
+.served{
+  font-weight: lighter;
+  font-size: 1rem;
 }
 
   
