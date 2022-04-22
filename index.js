@@ -1,4 +1,4 @@
-let button = document.getElementById('alcohol-btn');
+
 
 
 
@@ -38,5 +38,18 @@ if (testtt){
 }else{
     menuuu.style.display = "none";
     testtt = true;
+}
+}
+
+
+let menuuuu = document.querySelector('.arguile');
+var testttt = true;
+function hidemenuuuu(){
+if (testttt){
+    menuuuu.style.display = "block";
+    testttt = false;
+}else{
+    menuuuu.style.display = "none";
+    testttt = true;
 }
 }
